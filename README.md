@@ -17,4 +17,8 @@ This project fetches data from a paginated API, processes each response to ident
 
    ```bash
    
-   cd gen-ai-developer-assignment
+   https://github.com/jaypanchal18/task_18-05-2024
+
+2. install libraries
+   pip install -r requirements.txt
+
