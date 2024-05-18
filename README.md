@@ -25,3 +25,10 @@ This project fetches data from a paginated API, processes each response to ident
 
 3. For run
    streamlit run main.py
+
+
+
+*NOTE*: - 
+
+If the API doesn't work, you can try running the demo.py file. I have inserted some mock data in it. 
+You can use 'streamlit run demo.py' to run it.
