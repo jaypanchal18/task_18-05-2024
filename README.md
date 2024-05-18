@@ -22,3 +22,6 @@ This project fetches data from a paginated API, processes each response to ident
 2. install libraries
    pip install -r requirements.txt
 
+
+3. For run
+   streamlit run main.py
